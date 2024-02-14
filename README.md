@@ -17,7 +17,7 @@ Im a cybersecurity student finishing off my 3rd year of an Information Security 
 
 
 <br><br><br>
-- 🔭 I’m currently a student at Sheridan college & an IT security analyst at Descartes Systems Group. <br><br>
+- 🔭 I’m currently a student at Sheridan college & an IT security analyst at Blackberry. <br><br>
 - 📚 I’m currently learning  Digital Forensics, IDS/IPS, OWASP top 10, Secure Soft Dev.<br><br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abmhd" value="" >LinkedIn</a> & <a href="mailto:ab.mhd@pm.me"> E-Mail </a> <br>
 
