@@ -9,17 +9,17 @@
 👋 Welcome to my profile
 
 <br><br><br>
-
-Im a cybersecurity student finishing off my 3rd year of an Information Security Degree. I highly enjoy learning new concepts through self-learning and I always look forward to an opportunity to learn more about the industry.
  
+I'm an Associate Consultant at Kroll with hands-on experience in web application penetration testing. I’m currently expanding my skill set to include mobile application security for both Android and iOS.
 
  
 
 
 <br><br><br>
-- 🔭 I’m currently a student at Sheridan college & an IT security analyst at Blackberry. <br><br>
-- 📚 I’m currently learning  Digital Forensics, IDS/IPS, OWASP top 10, Secure Soft Dev.<br><br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abmhd" value="" >LinkedIn</a> & <a href="mailto:ab.mhd@pm.me"> E-Mail </a> <br>
+- 🔭 I'm currently working as an Associate Offensive Security Consultant at Kroll.<br><br>
+- 📚 I'm actively expanding my expertise into iOS and Android mobile application penetration testing.<br><br>
+- 📫 You can reach me via <a href="https://www.linkedin.com/in/abmhd">LinkedIn</a> or <a href="mailto:ab.mhd@pm.me">email</a>.<br>
+
 
 
 
