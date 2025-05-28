@@ -11,8 +11,8 @@
 I'm an Associate Consultant at Kroll with a strong background in web application penetration testing and client-facing reporting. I thrive on transforming technical findings into clear, actionable insights.
 
 <br><br><br>
-- 🔭 Currently an offensive security consultant at Kroll.<br><br>
-- 📚 Focused on expanding into mobile application security, with an emphasis on iOS and Android platforms.<br><br>
+- 🔭 Currently focused on conducting web application assesments.<br><br>
+- 📚 Working on expanding into mobile application security, with an emphasis on iOS and Android platforms.<br><br>
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/abmhd">LinkedIn</a> or reach out via <a href="mailto:ab.mhd@pm.me">email</a>.<br>
 
 
