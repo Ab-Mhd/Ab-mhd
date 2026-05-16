@@ -12,7 +12,7 @@ I'm an Associate Consultant at Kroll with a strong background in web application
 
 <br><br><br>
 - 🔭 Currently focused on conducting web application assesments.<br><br>
-- 📚 Working on expanding into mobile application security, with an emphasis on iOS and Android platforms.<br><br>
+- 📚 Working on expanding into cloud security, with a focus on modern AWS environments and cloud infrastructure security.<br><br>
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/abmhd">LinkedIn</a> or reach out via <a href="mailto:ab.mhd@pm.me">email</a>.<br>
 
 
