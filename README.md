@@ -8,7 +8,7 @@
 
 👋 Welcome to my profile
 
-I'm an Associate Consultant at Kroll with a strong background in web application penetration testing and client-facing reporting. I enjoy turning technical findings into clear and actionable insights.
+I'm an Associate Consultant at Kroll with a strong background in mobile and web application penetration testing and client-facing reporting. 
 
 <br><br><br>
 - 🔭 Currently focused on conducting web application assesments.<br><br>
